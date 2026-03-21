@@ -37,7 +37,6 @@ function App() {
 
   return (
     <div className="flex flex-col gap-10 items-center justify-center w-screen h-screen bg-green-200">
-      
       <h1 className="text-4xl text-[#333333] font-semibold">
         AI Quote Generator
       </h1>
